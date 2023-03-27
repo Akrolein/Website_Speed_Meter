@@ -14,3 +14,6 @@ MIT LICENSE
 In order to use it in another project, you need to specify the source.
 
 Copyright (c) 2023 Akrolein
+
+
+# Kurulum
