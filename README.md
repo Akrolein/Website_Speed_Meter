@@ -10,9 +10,13 @@ cd Website_Speed_Meter
 
 "Website_Speed_Meter"
 
+OR
+
+It will work if you download it as a zip and open the .exe file.
+
 # Changelog
 
-test
+-English and Turkish language support added
 
 # License
 
