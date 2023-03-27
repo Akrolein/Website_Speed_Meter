@@ -1,9 +1,13 @@
 # Website_Speed_Meter
+
 See how fast any site is running
 
 How to install:
+
 git clone https://github.com/Akrolein/Website_Speed_Meter
+
 cd Website_Speed_Meter
+
 "Website_Speed_Meter"
 
 MIT LICENSE
