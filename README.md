@@ -10,7 +10,7 @@ cd Website_Speed_Meter
 
 "Website_Speed_Meter"
 
-# LICENSE
+# License
 
 MIT LICENSE
 In order to use it in another project, you need to specify the source.
