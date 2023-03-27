@@ -10,6 +10,10 @@ cd Website_Speed_Meter
 
 "Website_Speed_Meter"
 
+# Changelog
+
+test
+
 # License
 
 MIT LICENSE
