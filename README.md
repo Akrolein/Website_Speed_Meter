@@ -1,4 +1,4 @@
-# Website_Speed_Meter
+# Website speed meter
 
 See how fast any site is running
 
